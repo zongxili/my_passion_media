@@ -73,7 +73,6 @@ if(isset($_POST['SubmitButton'])){ //check if form was submitted
 
   <h1></h1>
 
-
   <div id="table_admin" class="span7">
     <h3></h3>
 
