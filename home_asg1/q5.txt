@@ -1,0 +1,6 @@
+Conlusion:
+There is no technical issue in the Checkout process, but it takes a lot of time (about 5 seconds) to respond to Customers, which can be a User Experience issue because some of them may think the site is down and leave, but it is not in fact.
+
+I did testings with all the products in the store and added the coupon, monthly subscription in my bill, and I only found some subtle errors with checking with Google Inspector, but no breakdown happened.
+
+In total, I would say this is a User Experience problem, and it can be solved by adding text or a Progress bar to remind users that the program is currently working on it and do not close the window.

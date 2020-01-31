@@ -65,8 +65,6 @@ if(isset($_POST['SubmitButton'])){ //check if form was submitted
   array_push($productArray, $new);
   $message = "Success! You entered: ".$productName . $weight . $length . $width . $height;
 } 
-
-
 ?>
 
 <!DOCTYPE html>
@@ -106,6 +104,7 @@ if(isset($_POST['SubmitButton'])){ //check if form was submitted
             }
           }
           echo count($productArray) . "\n";
+          echo $message . "\n";
         ?>
       </tbody>
     </table>
