@@ -36,3 +36,5 @@ INSERT INTO Addresses VALUES (1, 3, '170-6371 Crescent Road', 'Vancouver', 1, 'V
 INSERT INTO Addresses VALUES (2, 2, '520 E 1st Ave', 'Vancouver', 1, 'V5T 0H2');
 
 INSERT INTO Addresses VALUES (3, 1, '116 St & 85 Ave', 'Edmonton', 2, 'T6G 2R3');
+
+INSERT INTO Addresses VALUES (4, 4, 'Invalid input', 'Somewhere', 2, 'T6G 2R3');

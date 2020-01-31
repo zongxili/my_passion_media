@@ -1,0 +1,1 @@
+SELECT CONCAT(e.FIRSTNAME, ' ', e.LASTNAME) AS FULL_NAME, CONCAT(a.address, ', ', a.city, ', ', p.province, ', ', a.postalCode) AS Full_Address FROM Employees AS e, Addresses AS a, Provinces AS p WHERE e.employeeID = a.employeeID AND p.provinceID = a.provinceID;
